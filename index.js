@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flappy Flight</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: black;
+      overflow: hidden;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe 
+    src="https://rosebud.ai/p/2deb3060-d335-4ebc-9175-880a5669f5c9"
+    allow="fullscreen; autoplay; gamepad"
+  ></iframe>
+</body>
+</html>
